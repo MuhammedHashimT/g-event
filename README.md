@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# **Eventia - Event Management Web App**
 
-## Getting Started
+Eventia is a powerful event management web application built with Next.js for the frontend, Express for the backend, and integrated with various Google APIs. This comprehensive platform facilitates event planning, organization, and engagement.
 
-First, run the development server:
+## **Technologies Used**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<img src="https://logowik.com/content/uploads/images/nextjs7685.logowik.com.webp" height="100" />
+<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="100" />
+<img src="https://www.turbogeek.co.uk/wp-content/uploads/2023/09/gcpfirestore.png" height="100" />
+<img src="https://lh3.googleusercontent.com/PVe1qU58ryjSA4nEllsvJIA1g9qJSu1h8vfHvgOsBhfsNV-gFkCiBl8B6Aqpux9iYoqRdoTLxwvVBVDE1SE" height="100" />
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<img src="https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA" height="100" />
+<img src="https://play-lh.googleusercontent.com/NntMALIH4odanPPYSqUOXsX8zy_giiK2olJiqkcxwFIOOspVrhMi9Miv6LYdRnKIg-3R=w240-h480-rw" height="100" />
+<img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" height="100" />
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Frontend
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+- **Next.js:** Used to create a responsive and dynamic user interface.
 
-To learn more about Next.js, take a look at the following resources:
+### Backend
+- **Express:** Powers the backend, managing data and serving API endpoints.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Database
+- **Google Firestore:** Efficiently stores and retrieves event data.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Authentication & APIs
+- **Google Auth:** Provides secure user authentication via Google accounts.
+- **Google Location API:** Locates users for tailored event suggestions.
+- **Google Gmail API:** Sends event notifications and alerts via Gmail.
+- **Google Calendar API:** Integrates event scheduling with Google Calendar.
 
-## Deploy on Vercel
+## Evaluation & Usage
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Setup
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Configure API keys for Google services in environment variables.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Testing
+- Thoroughly test each API integration for seamless functionality.
+- Validate user authentication, data storage, and Google API interactions.
+
+### Deployment
+- Host the frontend and backend on suitable platforms.
+- Optimize performance and scalability for a growing user base.
+
+## Contribution & Feedback
+
+We welcome contributions and value feedback to enhance Eventia's capabilities. Fork the repository, make improvements, and submit pull requests. Share your thoughts and suggestions via issues or by contacting our team directly.
+
+## Licensing
+
+This project is licensed under [License Name]. Please refer to the [LICENSE](link) file for specific details.
