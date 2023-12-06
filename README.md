@@ -33,12 +33,48 @@ Eventia is a powerful event management web application built with Next.js for th
 - **Google Gmail API:** Sends event notifications and alerts via Gmail.
 - **Google Calendar API:** Integrates event scheduling with Google Calendar.
 
+### Core Features:
+
+1. **User Authentication:**
+   - Secure login and signup using Google Auth for streamlined access.
+   - Authentication via Google accounts ensures reliability and trust.
+
+2. **Event Management (CRUD Operations):**
+   - Create, Read, Update, and Delete events effortlessly.
+   - Categorize events as online or offline, managing their details and status.
+
+3. **Event Details and Organization:**
+   - Add event details like descriptions, dates, locations, and event type (online/offline).
+   - Effortlessly manage and organize diverse events on one platform.
+
+4. **Integration & Connectivity:**
+   - **Google Calendar Sync:** Seamlessly add events to users' Google Calendars for easy scheduling.
+   - **Image Upload to Google Drive:** Store event images securely on Google Drive using the Drive API.
+   - **Email Notifications:** Send event alerts and reminders via Gmail using the Gmail API.
+
+5. **User Experience Enhancement:**
+   - **Location-Based Event Display:** Present events based on the user's location for relevance.
+   - **Sorting & Filtering:** Easily find events by date, location, type, or other specified criteria.
+
+6. **Scalability & Reliability:**
+   - Utilization of Google Firestore as the database ensures scalability and reliability in data storage and retrieval.
+   - Integration of Express for the backend ensures efficient data management and API handling.
+
+7. **Easy Deployment & Use:**
+   - **Next.js for Frontend:** Provides a responsive, dynamic, and intuitive user interface.
+   - Easy setup and deployment process, allowing for quick and hassle-free usage.
+
+8. **Contribution & Feedback:**
+   - Encourages contributions for further enhancements and improvements from the community.
+   - Welcomes user feedback to continually refine and enrich the platform's functionalities.
+
 ## Evaluation & Usage
 
 ### Setup
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Configure API keys for Google services in environment variables.
+
 
 ### Testing
 - Thoroughly test each API integration for seamless functionality.
