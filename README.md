@@ -1,5 +1,8 @@
 # **Eventia - Event Management Web App**
 
+
+<img src="https://github.com/MuhammedHashimT/she-fest-api/assets/122851090/c9327a88-7584-48b2-8b36-0a0886fad56b"/>
+
 Eventia is a powerful event management web application built with Next.js for the frontend, Express for the backend, and integrated with various Google APIs. This comprehensive platform facilitates event planning, organization, and engagement.
 
 ## **Technologies Used**
@@ -8,7 +11,6 @@ Eventia is a powerful event management web application built with Next.js for th
 <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="100" />
 <img src="https://www.turbogeek.co.uk/wp-content/uploads/2023/09/gcpfirestore.png" height="100" />
 <img src="https://lh3.googleusercontent.com/PVe1qU58ryjSA4nEllsvJIA1g9qJSu1h8vfHvgOsBhfsNV-gFkCiBl8B6Aqpux9iYoqRdoTLxwvVBVDE1SE" height="100" />
-
 <img src="https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA" height="100" />
 <img src="https://play-lh.googleusercontent.com/NntMALIH4odanPPYSqUOXsX8zy_giiK2olJiqkcxwFIOOspVrhMi9Miv6LYdRnKIg-3R=w240-h480-rw" height="100" />
 <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" height="100" />
@@ -45,6 +47,13 @@ Eventia is a powerful event management web application built with Next.js for th
 ### Deployment
 - Host the frontend and backend on suitable platforms.
 - Optimize performance and scalability for a growing user base.
+
+<p >
+<img width="400" src="https://github.com/MuhammedHashimT/she-fest-api/assets/122851090/c9327a88-7584-48b2-8b36-0a0886fad56b"  />
+<img width="400" src="https://github.com/MuhammedHashimT/she-fest-api/assets/122851090/eb842c1a-c669-4610-9a5e-42baf00309c6" />
+<img width="400" src="https://github.com/MuhammedHashimT/she-fest-api/assets/122851090/e316c886-b1dc-4c6b-a44f-6929639a902a"  />
+<img width="400" src="https://github.com/MuhammedHashimT/she-fest-api/assets/122851090/ef230553-27c4-4efc-bdf1-9c7e0e586717"  />
+</p>
 
 ## Contribution & Feedback
 
