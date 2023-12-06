@@ -1,40 +1,17 @@
-import React, { FC, MouseEvent } from 'react';
-import { Drawer, styled } from '@mui/material';
-import SideBarContent from './SideBarContent';
+import React from 'react'
 
-interface SideBarProps {
-  toggleDrawer: (event: MouseEvent<HTMLElement>) => void;
-  openDrawer: boolean;
+interface Props {
+  showSideBar: boolean
 }
 
-const StyledDrawer = styled(Drawer)`
-  margin-top: 54px;
-`;
-
-const SideBar: FC<SideBarProps> = ({ toggleDrawer, openDrawer }) => {
+const SideBar = (props:Props) => {
   return (
-    <StyledDrawer
-      anchor="left"
-      open={openDrawer}
-      onClose={toggleDrawer}
-      hideBackdrop={true}
-      ModalProps={{
-        keepMounted: true,
-      }}
-      variant="persistent"
-      sx={{
-        '& .MuiDrawer-paper': {
-          width: 250,
-          borderRight: 'none',
-          background: '#f5F5F5',
-          marginTop: '64px',
-          height: 'calc(100vh - 64px)',
-        },
-      }}
-    >
-      <SideBarContent />
-    </StyledDrawer>
-  );
-};
+    <div className={
+      ' w-64 h-screen bg-black text-white transition-transform duration-500 transform ' +
+      (props.showSideBar ? 'translate-x-0' : '-translate-x-full')
+    
+    }>SideBar</div>
+  )
+}
 
-export default SideBar;
+export default SideBar
