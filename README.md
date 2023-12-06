@@ -4,7 +4,7 @@ Eventia is a powerful event management web application built with Next.js for th
 
 ## **Technologies Used**
 
-<img src="https://logowik.com/content/uploads/images/nextjs7685.logowik.com.webp" height="100" />
+<p><img src="https://logowik.com/content/uploads/images/nextjs7685.logowik.com.webp" height="100" />
 <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="100" />
 <img src="https://www.turbogeek.co.uk/wp-content/uploads/2023/09/gcpfirestore.png" height="100" />
 <img src="https://lh3.googleusercontent.com/PVe1qU58ryjSA4nEllsvJIA1g9qJSu1h8vfHvgOsBhfsNV-gFkCiBl8B6Aqpux9iYoqRdoTLxwvVBVDE1SE" height="100" />
@@ -12,6 +12,7 @@ Eventia is a powerful event management web application built with Next.js for th
 <img src="https://play-lh.googleusercontent.com/Kf8WTct65hFJxBUDm5E-EpYsiDoLQiGGbnuyP6HBNax43YShXti9THPon1YKB6zPYpA" height="100" />
 <img src="https://play-lh.googleusercontent.com/NntMALIH4odanPPYSqUOXsX8zy_giiK2olJiqkcxwFIOOspVrhMi9Miv6LYdRnKIg-3R=w240-h480-rw" height="100" />
 <img src="https://play-lh.googleusercontent.com/KSuaRLiI_FlDP8cM4MzJ23ml3og5Hxb9AapaGTMZ2GgR103mvJ3AAnoOFz1yheeQBBI" height="100" />
+</p>
 
 ### Frontend
 
